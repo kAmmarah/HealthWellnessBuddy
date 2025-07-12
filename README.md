@@ -154,6 +154,6 @@ This pulls dependencies and starts the entire app automatically.
  🌐 Portfolio | 💖 GitHub](#)
 
 ---
-🌷💻
+🎉💻 Enjoy full-stack HealthWellnessBuddy right on Replit – AI chat, stylish UI, and backend brains, all in one place! 🚀🧘‍♂️🌷💻
 --- 
 ```
